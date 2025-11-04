@@ -14,6 +14,6 @@
   <li>Arturo Gordo</li>
   <li>Victor Sevilla</li>
   <li>Jose Sanchez</li>
-  <li>Cristan Manuel</li>
+  <li>Cristhian Camacho Tinoco</li>
   <li>Roberto Rodriguez</li>
 </ul>
