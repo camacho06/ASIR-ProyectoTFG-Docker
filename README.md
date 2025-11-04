@@ -3,8 +3,10 @@
 <p>Sistema para la creación y gestión de aulas virtuales con Docker y terminales ligeras. Generación de una interfaz gráfica para la creación de contenedores de trabajo y su conexión a través de un sistemas de terminales ligeras.</p> 
 
 <h2>Miembros del grupo:</h2>
-- Arturo Gordo
-- Victor Sevilla
-- Jose Sanchez
-- Cristian Manuel
-- Roberto Rodriguez
+<ul>
+  <li>Arturo Gordo</li>
+  <li>Victor Sevilla</li>
+  <li>Jose Sanchez</li>
+  <li>Cristan Manuel</li>
+  <li>Roberto Rodriguez</li>
+</ul>
