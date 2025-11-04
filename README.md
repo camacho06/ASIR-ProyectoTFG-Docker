@@ -1,8 +1,8 @@
-# ASIR-ProyectoTFG-Docker
-Proyecto: <br>
-Sistema para la creación y gestión de aulas virtuales con Docker y terminales ligeras. Generación de una interfaz gráfica para la creación de contenedores de trabajo y su conexión a través de un sistemas de terminales ligeras. 
+<h1>ASIR-ProyectoTFG-Docker</h1>
+<h2>Proyecto a tratar: </h2>
+<p>Sistema para la creación y gestión de aulas virtuales con Docker y terminales ligeras. Generación de una interfaz gráfica para la creación de contenedores de trabajo y su conexión a través de un sistemas de terminales ligeras.</p> 
 
-Miembros del grupo:
+<h2>Miembros del grupo:</h2>
 - Arturo Gordo
 - Victor Sevilla
 - Jose Sanchez
